@@ -7,4 +7,4 @@
 <pre>pip install termcolor
 git clone https://github.com/Catware-Foundation/StarsPy.git
 cd StarsPy
-python3 stars.py</pre>
+python3 stars.py # НУ, ПОЕХАЛИ! (С) ДИВАННЫЙ ГАГАРИН</pre>
